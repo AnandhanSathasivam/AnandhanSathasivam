@@ -1,3 +1,8 @@
+About me 
+
+Hi, I'm Anandhan Sathasivam, an Full stack developer 🚀 from India, currently, I'm working as an React JS developer at 🙍🏽‍♂️ Tata Consultancy Services (TCS). I'm a creative problem solving enthusiast, with a constantly growing love for languages.
+
+
 - 👋 Hi, I’m @AnandhanSathasivam
 - 👨🏽‍💻 I'm currently working on.. React JS
 - 👀 I’m interested in ...Sitecore
